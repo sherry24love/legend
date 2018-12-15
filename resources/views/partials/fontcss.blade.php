@@ -1,0 +1,1 @@
+<link rel="stylesheet" type="text/css" href="{{asset('//at.alicdn.com/t/font_jvlokgtefbxirudi.css')}}">

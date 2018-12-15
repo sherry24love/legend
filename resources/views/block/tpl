@@ -1,0 +1,402 @@
+<p>
+    <span style="font-size: 16px; font-style: italic; font-weight: bold; line-height: 18px;"><span style="font-size: 16px; font-style: italic; font-weight: bold; color: rgb(51, 153, 204); line-height: 18px;">一．&nbsp;&nbsp; 注册</span></span>
+</p>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;<strong>客户可以在富裕通网站平台自助注册或联系客服代理注册。</strong>
+</p>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;1.&nbsp;&nbsp; 自助注册：
+</p>
+<p style="white-space: normal;">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①&nbsp;&nbsp;&nbsp; 如图注册按钮，点击进入自助注册界面；
+</p>
+<p style="white-space: normal;">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img title="1496241283592315.png" alt="1496241283592315.png" src="http://www.legend56.com/uploads/ueditor/php/upload/image/20170531/1496241283592315.png" width="680" height="55"/>
+</p>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②&nbsp;&nbsp;&nbsp; 输入手机号码、密码，点击发送验证码 ----》输入您手机接收到的验证码；
+</p>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③&nbsp;&nbsp;&nbsp; 如有推荐人，请输入推荐人4位数推广码；
+</p>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④&nbsp;&nbsp;&nbsp; 填写联系人和QQ号，使得后续沟通更方便灵活；
+</p>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑤&nbsp;&nbsp;&nbsp; 点击立即注册，完成自助注册。
+</p>
+<p style="text-align: left;">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="323" height="207" title="1496241440918539.png" alt="login.png" src="/uploads/ueditor/php/upload/image/20170531/1496241440918539.png"/>
+</p>
+<p style="text-align: left;">
+    &nbsp;&nbsp;&nbsp;&nbsp;2. &nbsp;联系客服代理注册：
+</p>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;① &nbsp; &nbsp;如图点击在线咨询；
+</p>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="148" height="82" title="1496241526454893.png" alt="feedback.png" src="/uploads/ueditor/php/upload/image/20170531/1496241526454893.png"/>
+</p>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②&nbsp;&nbsp;&nbsp; 提供手机号码给客服，收到短信验证码后发给客服完成注册。
+</p>
+<p>
+    &nbsp;
+</p>
+<p>
+    <br/>
+</p>
+<p>
+    <span style="font-size: 16px; font-style: italic; font-weight: bold; color: rgb(51, 153, 204); line-height: 18px;">二．&nbsp;&nbsp; 订舱</span>
+</p>
+<p>
+    <br/>
+</p>
+<p>
+    <strong>&nbsp;&nbsp;&nbsp;&nbsp;客户可以在富裕通网站平台自助订舱或联系客服代理订舱。</strong>
+</p>
+<p>
+    <br/>
+</p>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;1.&nbsp;&nbsp; 客户自助订舱：
+</p>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;① &nbsp; 如图在线订舱按钮，点击进入自助订舱界面；
+</p>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img title="1496241526454893.png" alt="1496241526454893.png" src="/uploads/ueditor/php/upload/image/20170531/1496241569664701.png" width="680" height="56"/>
+</p>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;② &nbsp; 按照订舱界面指引依次填写货物信息、委托人信息、发货人信息、收货人信息、保险信息；
+</p>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③ &nbsp; 填写完成后，如图点击提交委托书完成订舱。
+</p>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="85" height="39" title="1496241618862178.png" alt="submit.png" src="/uploads/ueditor/php/upload/image/20170531/1496241618862178.png"/>
+</p>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;2.&nbsp;&nbsp; 联系客服代理订舱：
+</p>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①&nbsp;&nbsp;&nbsp;如图点击在线咨询；
+</p>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="148" height="82" alt="1496241526454893.png" src="/uploads/ueditor/php/upload/image/20170531/1496241526454893.png"/>
+</p>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②&nbsp;&nbsp;&nbsp; 提供如下表格所列资料给客服，由客服代理订舱；
+</p>
+<p></p>
+<table class="table table-border" width="614">
+    <tbody>
+        <tr class="firstRow">
+            <td width="313" colspan="4" style="text-align: center;">
+                <p>
+                    <strong>订舱资料</strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="55">
+                <p>
+                    托运人
+                </p>
+            </td>
+            <td width="118">
+                <p>
+                    <span style="color: rgb(255, 0, 0);">必填，个人则写姓名\电话</span>
+                </p>
+            </td>
+            <td width="62">
+                <p>
+                    运输条款
+                </p>
+            </td>
+            <td width="76">
+                <p>
+                    <span style="color: rgb(255, 0, 0);">必填</span>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="55">
+                <p>
+                    发货人
+                </p>
+            </td>
+            <td width="118">
+                <p>
+                    <span style="color: rgb(255, 0, 0);">起运地CY可不填</span>
+                </p>
+            </td>
+            <td width="62">
+                <p>
+                    柜量/柜型
+                </p>
+            </td>
+            <td width="76">
+                <p>
+                    <span style="color: rgb(255, 0, 0);">必填</span>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="55">
+                <p>
+                    收货人
+                </p>
+            </td>
+            <td width="118">
+                <p>
+                    <span style="color: rgb(255, 0, 0);">目的地CY可不填</span>
+                </p>
+            </td>
+            <td width="62">
+                <p>
+                    船公司
+                </p>
+            </td>
+            <td width="76">
+                <p>
+                    <span style="color: rgb(255, 0, 0);">必填</span>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="55">
+                <p>
+                    起运地
+                </p>
+            </td>
+            <td width="118">
+                <p>
+                    <span style="color: rgb(255, 0, 0);">起运地CY则不填</span>
+                </p>
+            </td>
+            <td width="62">
+                <p>
+                    包装类型
+                </p>
+            </td>
+            <td width="76">
+                <p>
+                    <span style="color: rgb(255, 0, 0);">必填</span>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="55">
+                <p>
+                    起运港
+                </p>
+            </td>
+            <td width="118">
+                <p>
+                    <span style="color: rgb(255, 0, 0);">必填</span>
+                </p>
+            </td>
+            <td width="62">
+                <p>
+                    每柜重量
+                </p>
+            </td>
+            <td width="76">
+                <p>
+                    <span style="color: rgb(255, 0, 0);">必填</span>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="55">
+                <p>
+                    目的港
+                </p>
+            </td>
+            <td width="118">
+                <p>
+                    <span style="color: rgb(255, 0, 0);">必填</span>
+                </p>
+            </td>
+            <td width="62">
+                <p>
+                    件数
+                </p>
+            </td>
+            <td width="76">
+                <p>
+                    <span style="color: rgb(255, 0, 0);">如无可不填</span>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="55">
+                <p>
+                    目的地
+                </p>
+            </td>
+            <td width="118">
+                <p>
+                    <span style="color: rgb(255, 0, 0);">目的地CY则不填</span>
+                </p>
+            </td>
+            <td width="62" style="word-break: break-all;">
+                <p>
+                    货主
+                </p>
+            </td>
+            <td width="76" style="word-break: break-all;">
+                <p>
+                    <span style="color: rgb(255, 0, 0);">如无可不填</span>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="55" style="word-break: break-all;">
+                <p>
+                    装货日期
+                </p>
+            </td>
+            <td width="118" style="word-break: break-all;">
+                <p>
+                    <span style="color: rgb(255, 0, 0);">必填，方便确认船期</span>
+                </p>
+            </td>
+            <td width="62" style="word-break: break-all;">
+                <p>
+                    船期
+                </p>
+            </td>
+            <td width="76" style="word-break: break-all;">
+                <p>
+                    <span style="color: rgb(255, 0, 0);">如无指定则不填</span>
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p>
+    <br/>
+</p>
+<p>
+    <br/>
+</p>
+<p></p>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③&nbsp;&nbsp;&nbsp; 客服完成订舱后，发短信通知客户确认订舱；客户在如下图我的订单中查看到订单相关信息。
+</p>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="680" height="50" title="1496241721362920.png" alt="1496241721362920.png" src="http://www.legend56.com/uploads/ueditor/php/upload/image/20170531/1496241721362920.png"/>
+</p>
+<p>
+    <br/>
+</p>
+<p style="white-space: normal;">
+    <span style="font-style: italic; font-weight: bold; color: rgb(51, 153, 204); line-height: 18px;">三．&nbsp;&nbsp; 推广</span>
+</p>
+<p style="white-space: normal;">
+    <span style="font-style: italic; font-weight: bold; color: rgb(51, 153, 204); line-height: 18px;"><br/></span>
+</p>
+<p style="white-space: normal;">
+    &nbsp;&nbsp;&nbsp;&nbsp;1. 客户登录富裕通网站平台，在用户中心子菜单 - 我的推广中找到专属二维码、四位数推广码和专属链接，如下图：
+</p>
+<p style="white-space: normal;">
+    &nbsp;&nbsp;&nbsp;&nbsp;<img width="434" height="173" title="1496241786222947.png" alt="recom.png" src="http://www.legend56.com/uploads/ueditor/php/upload/image/20170531/1496241786222947.png"/>
+</p>
+<p style="white-space: normal;">
+    <br/>
+</p>
+<p style="white-space: normal;">
+    &nbsp;&nbsp;&nbsp;&nbsp;2. 开展推广：
+</p>
+<p style="white-space: normal;">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①让被推广者手机微信扫描专属二维码；
+</p>
+<p style="white-space: normal;">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②将四位推广码直接发送给被推广者；
+</p>
+<p style="white-space: normal;">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③复制专属链接发给被推广者，也可放置在网站、论坛、博客、QQ群、微信朋友圈和QQ个性签名等互联网渠道上，吸引被推荐者点击推广链接；
+</p>
+<p style="white-space: normal;">
+    <br/>
+</p>
+<p style="white-space: normal;">
+    &nbsp;&nbsp;&nbsp;&nbsp;3.&nbsp;&nbsp; 被推广者通过二维码、推广码、专属链接三种方式中的任何一种来到富裕通网站平台注册，并下单订舱出货，即为推广成功，推广者获得50元/柜的奖励金；
+</p>
+<p style="white-space: normal;">
+    &nbsp;&nbsp;&nbsp;&nbsp;4.&nbsp;&nbsp; 船到港七天后，推广者即可在富裕通网站平台申请提现。
+</p>
+<p>
+    &nbsp;<br/>
+</p>
+<p>
+    <br/>
+</p>
+<p>
+    <br/>
+</p>
+<p>
+    <span style="font-size: 16px; font-style: italic; font-weight: bold; color: rgb(51, 153, 204); line-height: 18px;">四．&nbsp;&nbsp; 用户中心</span>
+</p>
+<p>
+    <strong>&nbsp;&nbsp;&nbsp;&nbsp;用户登录后可在用户中心中查到以下内容，如图：</strong>
+</p>
+<p style="text-align: left;">
+    &nbsp;<img width="680" height="220" title="1496243183956283.png" alt="1496243183956283.png" src="/uploads/ueditor/php/upload/image/20170531/1496243183956283.png"/>
+</p>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp; <strong>我的订单：</strong>可以查询订舱记录，已经出货的订单可一键式货物跟踪；
+</p>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp; <strong>我的返利：</strong>返利只适用于实际出货会员，返利金额请参考最新优惠政策，会员订舱平台确认后，可在我的订单中查看返利金额；
+</p>
+<p>
+    &nbsp; &nbsp; &nbsp;<strong>我的奖励：</strong>会员推广成功后可在这里查询获得的奖励金；
+</p>
+<p>
+    &nbsp; &nbsp; &nbsp;<strong>我的提现：</strong>会员可在这里申请订舱返利和推广奖励的提现；
+</p>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp; <strong>我的推广：</strong>会员可在这里找到用于推广的专属二维码、四位数推广码和专属链接；
+</p>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp; <strong>我的银行卡：</strong>会员可在此绑定银行卡信息，进行订舱返利和推广奖励的提现。
+</p>
+<p>
+    <strong><strong><strong><br/></strong></strong></strong>
+</p>
+<p>
+    <strong><strong><strong><br/></strong></strong></strong>
+</p>
+<p>
+    <strong><strong><strong><span style="font-size: 16px; font-style: italic; font-weight: bold; color: rgb(51, 153, 204); line-height: 18px;">五．&nbsp;&nbsp; 怎样关注微信公众号，绑定微信平台，尽享便捷服务</span></strong></strong></strong>
+</p>
+<p>
+    <strong><strong><strong><span style="font-size: 16px; font-style: italic; font-weight: bold; color: rgb(51, 153, 204); line-height: 18px;"><br/></span></strong></strong></strong>
+</p>
+<p style="white-space: normal;">
+    1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;微信扫富裕通公众号二维码，关注富裕通公众号；
+</p>
+<p style="white-space: normal;">
+    2.&nbsp;&nbsp;&nbsp;&nbsp;通过微信接受推广链接打开即显示二维码，长按二维码关注公众号；
+</p>
+<p style="white-space: normal;">
+    3.&nbsp;&nbsp;&nbsp;&nbsp;通过微信登录手机网上平台，如果错失第一次长按二维码关注公众号，可以点击页面右上角的三圆点符号，查看公众并关注。
+</p>
+<p style="text-align: left;">
+    <br/>
+</p>
+<p>
+    &nbsp;
+</p>
+<p>
+    <br/>
+</p>
+<p>
+    <br/>
+</p>
